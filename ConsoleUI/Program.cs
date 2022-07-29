@@ -1,7 +1,7 @@
 ﻿using DataAccessLayer.Contexts;
 using DataAccessLayer.EntityFramework;
-using Entities;
 using Entities.Dtos;
+using Entities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -51,8 +51,10 @@ namespace ConsoleUI
 
         static void WriteProducts(int categoryId) 
         {
-            EfProductDal productDal = new EfProductDal();
-            List<ProductDetailDto> list = productDal.GetProductDetailsByCategoryId(categoryId);
+            //EfProductDal productDal = new EfProductDal();
+            DataAccessLayer.Concrete.EntityFramework.EfProductDal productDal = new DataAccessLayer.Concrete.EntityFramework.EfProductDal();
+
+            List<ProductDetailDto> list = productDal.GetProductDetailsByCategoryId(categoryId).ToList();
             if (list.Count>0)
             {
                 foreach (var item in list)

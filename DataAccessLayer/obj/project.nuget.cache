@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ccYgsN1tuhqC4HtRPx+Phxi/H1+t7NqAtIeZUmNn4JHIMy0uZj3XajhIG7TjcPURsRPqk8L1rd5ndU6i8GdNKA==",
+  "dgSpecHash": "WC8C0nvzcrzwjdFksBQKW3A+R/gr6/2jgEJIG61GXXiJO/BCW9zZjU85d2mq44AwCWVStzfXRjEVZ/iELt+Lwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kemal.akbay\\Documents\\Projects\\.Net Projects\\BootcampFinalProject\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kemal.akbay\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cX/M9ZbJ0szJtU8lZoTrWEj6m1DarvhXBL4b0KlGkNOsAPRqUjCdVd3aT70LAdvzZDMhMNrlLseQGtPH+gSVmg==",
+  "dgSpecHash": "UpIE12YMd5ATaPO+oSkjXgEn+HYjPhVYlTf0FltIOskoWVigMOPV25rmXc9ZjL5JuUFhgjsyYjjG0jqXmlTNiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kemal.akbay\\Documents\\Projects\\.Net Projects\\BootcampFinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kemal.akbay\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\kemal.akbay\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
